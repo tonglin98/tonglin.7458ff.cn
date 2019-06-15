@@ -1,0 +1,7 @@
+<xml><ToUserName><![CDATA[gh_c510029b54fe]]></ToUserName>
+<FromUserName><![CDATA[okuco50Lb13bIBTkFgRqDAMns9cE]]></FromUserName>
+<CreateTime>1560161840</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[我想你了]]></Content>
+<MsgId>22336145765542076</MsgId>
+</xml>
